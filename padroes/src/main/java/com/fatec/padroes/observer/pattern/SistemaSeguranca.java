@@ -3,9 +3,13 @@ package com.fatec.padroes.observer.pattern;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ConcreteSubject implements Subject{
-    private List<Observer> observers = new ArrayList<>();
-    private int data;
+public class SistemaSeguranca implements Subject {
+    private List<Observer> observers;
+    private String alerta;
+
+    public SistemaSeguranca() {
+        observers = new ArrayList<>();
+    }
 
     @Override
     public void registerObserver(Observer observer) {
@@ -13,19 +17,14 @@ public class ConcreteSubject implements Subject{
     }
 
     @Override
-    public void removeObserver(Observer observer) {
-        observers.remove(observer);
-    }
-
-    @Override
     public void notifyObservers() {
         for (Observer observer : observers) {
-            observer.update(data);
+            observer.update(alerta);
         }
     }
 
-    public void setData(int data) {
-        this.data = data;
+    public void setAlerta(String alerta) {
+        this.alerta = alerta;
         notifyObservers();
     }
 }

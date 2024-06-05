@@ -2,13 +2,15 @@ package com.fatec.padroes.observer.pattern;
 
 public class Main {
     public static void main(String[] args) {
-        ConcreteSubject subject = new ConcreteSubject();
-        ConcreteObserver observer1 = new ConcreteObserver();
-        ConcreteObserver observer2 = new ConcreteObserver();
+        SistemaSeguranca sistemaSeguranca = new SistemaSeguranca();
 
-        subject.registerObserver(observer1);
-        subject.registerObserver(observer2);
+        Alarme local1 = new Alarme("Cozinha");
+        Alarme local2 = new Alarme("Área de serviço.");
 
-        subject.setData(10);
+        sistemaSeguranca.registerObserver(local1);
+        sistemaSeguranca.registerObserver(local2);
+
+        sistemaSeguranca.setAlerta("Atividade suspeita.");
+        sistemaSeguranca.setAlerta("Fogo!");
     }
 }
