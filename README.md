@@ -1,26 +1,26 @@
 # Danillo Wesley da Costa Silva
 
-## Introdução
+## 👨‍🎓 Introdução
 
-Estudante do Curso de Tecnologia em Banco de Dados na Fatec (São José dos Campos/SP).
+Desenvolvedor de Software e aluno do Curso Superior de Tecnologia em Banco de Dados na Fatec (São José dos Campos/SP).
 
-## Contatos
+## 📬 Contatos
 
 * [GitHub](https://www.github.com/xxzidanilloxx)
 * [LinkedIn](https://www.linkedin.com/in/danillowesley)
 
-## Meus Principais Conhecimentos
+## 🧠 Meus Principais Conhecimentos
 
 - Java
 - Spring
 - SQL
 
-## Meus Projetos
+## 🚀 Meus Projetos
 
 <details>
 <summary><b> 2022-2 </b></summary>
 
-Este projeto foi desenvolvido com o objetivo de proporcionar uma avaliação completa e detalhada por meio da metodologia de Avaliação Técnica 360°. E solução conta com dois perfis de usuários: o administrador, responsável pela gestão e cadastro de usuários básicos, garantindo controle e organização, e o usuário básico, que atribui notas aos avaliados e acessa um dashboard interativo para monitorar métricas e resultados.
+Este projeto foi desenvolvido em parceria com a **Fatec**, que apresentou como demanda a criação de um sistema para Avaliação Técnica 360°, no qual os usuários realizam autoavaliação e também avaliam os demais membros da equipe. A solução desenvolvida conta com dois perfis de usuários: o administrador, responsável pela gestão e cadastro de usuários básicos, garantindo controle e organização; e o usuário básico, que atribui notas aos avaliados e acessa um dashboard interativo para monitorar métricas e resultados.
 O sistema foi projetado para oferecer uma interface intuitiva e funcional, com foco em eficiência e facilidade de uso, atendendo às demandas de avaliação em diferentes contextos organizacionais.
 
 [GitHub](https://github.com/tn-api1sem/api)
@@ -28,13 +28,9 @@ O sistema foi projetado para oferecer uma interface intuitiva e funcional, com f
 #### Tecnologias Utilizadas
 
 - **Python**: Linguagem de programação versátil e poderosa, utilizada para implementar a lógica central e funcionalidades robustas da aplicação.
-
 - **FastAPI**: Framework de alto desempenho para Python, escolhido para construir APIs rápidas, seguras e bem documentadas, com suporte a validações e autenticação de maneira eficiente.
-
 - **JavaScript**: Responsável por adicionar interatividade e dinamismo à aplicação, tornando a interface mais responsiva e enriquecendo a experiência do usuário.
-
 - **HTML**: Linguagem de marcação utilizada para estruturar e organizar os elementos da interface, garantindo uma base semântica sólida para a aplicação.
-
 - **CSS**: Linguagem de estilo utilizada para definir a aparência e o layout da aplicação. Foi essencial para garantir uma experiência visual agradável e alinhada aos objetivos do projeto. 
 
 #### Contribuições Pessoais
@@ -237,32 +233,28 @@ def delete_id_times(id:int):
 </details>
 
 ### Hard Skills
-- **Desenvolvimento Back-End:** Domínio no desenvolvimento de APIs RESTful utilizando **FastAPI**, com foco em desempenho, validação de dados e estruturação modular de serviços, repositórios e controladores.
-- **Programação Orientada a Objetos (POO):** Aplicação dos princípios de **POO** em **Python**, com a criação de classes bem estruturadas e responsabilidades bem definidas para repositórios, serviços e controladores.
+- **Desenvolvimento Back-End:** Desenvolvi APIs RESTful utilizando FastAPI, com ênfase em desempenho, validação de dados e uma arquitetura modular, estruturando de forma clara os serviços, repositórios e controladores.
+- **Programação Orientada a Objetos (POO):** Apliquei os princípios da Programação Orientada a Objetos em Python, desenvolvendo classes com responsabilidades bem definidas, o que contribuiu para a organização e manutenibilidade do código.
 
 ### Soft Skills
-- **Adaptação e Aprendizado Contínuo:** Capacidade de aprender rapidamente novas tecnologias e aplicá-las para melhorar processos e produtos.
-- **Resolução de Problemas:** Capacidade de analisar desafios complexos, identificar causas e implementar soluções práticas e inovadoras.
-- **Trabalho em Equipe:** Colaboração eficaz com outros desenvolvedores para integrar funcionalidades e alinhar objetivos técnicos ao propósito do projeto.
+- **Adaptação e Aprendizado Contínuo:** Demonstrei facilidade em aprender novas tecnologias de forma autônoma e em aplicá-las de maneira eficaz para otimizar processos e resultados.
+- **Resolução de Problemas:** Atuei na análise e resolução de problemas, identificando causas e propondo soluções práticas e eficientes, sempre alinhadas aos objetivos do projeto.
+- **Trabalho em Equipe:** Participei ativamente da colaboração entre membros da equipe de desenvolvimento, contribuindo com ideias, alinhamento técnico e integração de funcionalidades de forma coesa.
 
 </details>
 
 <details>
 <summary><b> 2023-1 </b></summary>
 
-O projeto se baseia em uma aplicação desktop que gerencia a jornada de trabalho dos colaboradores, identifica e classifica as horas extras e sobreavisos, além de gerenciar o fluxo completo desde o registro das horas pelo colaborador até a aprovação pelos gestores.
+A empresa parceira **2RP** propôs o desenvolvimento de um sistema desktop de controle de horas extras, com a necessidade de registrar, visualizar em tempo real e extrair relatórios detalhados das horas trabalhadas. A solução implementada contempla o CRUD de usuários, centros de resultado e clientes, além da parametrização do sistema quanto aos valores das taxas de trabalho e horários de jornada noturna. O sistema permite que administradores aprovem ou reprovem horas extras, gestores lancem horas e acompanhem relatórios, e usuários registrem e acompanhem suas horas mensais acumuladas.
 
 [GitHub](https://github.com/api-2-sem)
 
 #### Tecnologias Utilizadas
 
 - **Java**: Linguagem de programação amplamente utilizada para desenvolvimento de aplicativos devido à sua portabilidade, robustez e segurança. Foi fundamental fornecendo uma base sólida e confiável para o projeto.
-
-- **JavaFX**: Framework utilizado para o desenvolvimento de interfaces gráficas (GUIs) para aplicações desktop, permitindo a criação de componentes visuais interativos e atraentes.
-
-
+- **JavaFX**: Biblioteca utilizada para o desenvolvimento de interfaces gráficas (GUIs) para aplicações desktop, permitindo a criação de componentes visuais interativos e atraentes.
 - **CSS**: Linguagem de estilo utilizada para definir a aparência e o layout da aplicação. Foi essencial para garantir uma experiência visual agradável e alinhada aos objetivos do projeto.
-
 - **MySQL**: Sistema de gerenciamento de banco de dados relacional que oferece desempenho, confiabilidade e escalabilidade, utilizado para armazenar e gerenciar os dados da aplicação de forma eficiente e segura.
 
 #### Contribuições Pessoais
@@ -270,7 +262,7 @@ O projeto se baseia em uma aplicação desktop que gerencia a jornada de trabalh
 <details>
 <summary><b> Implementação de controle e gerenciamento de usuários </b></summary>
 
-A atividade consiste em criar uma interface gráfica em JavaFX para gerenciar usuários, integrando funcionalidades como visualização, exclusão e filtro de dados. A aplicação exibe informações dos usuários em uma tabela, com opções para excluir registros diretamente e filtrar por seleção em um combo box. Além disso, permite navegação para a tela de cadastro de novos usuários e retorno ao menu principal.
+A atividade consiste em criar uma interface gráfica com JavaFX para gerenciar usuários, integrando funcionalidades como visualização, exclusão e filtro de dados. A aplicação exibe informações dos usuários em uma tabela, com opções para excluir registros diretamente e filtrar por seleção em um combo box. Além disso, permite navegação para a tela de cadastro de novos usuários e retorno ao menu principal.
 
 ```java
 public class VisualizarUsuarioController {
@@ -441,35 +433,30 @@ Este arquivo FXML define a interface gráfica utilizada na aplicação de contro
 
 #### Hard Skills
 
-- **Programação em Java**: Desenvolvimento de funcionalidades em JavaFX para interface gráfica e controle de dados no banco de dados.
-- **Controle de Fluxo de Dados**: Implementação de funcionalidades de navegação e filtragem de dados, assegurando a eficiência no controle de registros.
-- **JavaFX**: Criação de interfaces gráficas interativas com tabelas, combo boxes, e botões para gerenciar dados de usuários.
+- **Programação em Java:** Desenvolvi funcionalidades utilizando JavaFX, integrando a lógica da interface gráfica com o controle e persistência de dados em banco de dados.
+- **Controle de Fluxo de Dados:** Implementei mecanismos de navegação e filtragem de registros, assegurando maior eficiência e usabilidade na manipulação dos dados.
+- **JavaFX:** Projetei e implementei interfaces gráficas interativas, utilizando elementos como tabelas, combo boxes e botões para o gerenciamento intuitivo de informações dos usuários.
 
 #### Soft Skills
 
-- **Trabalho em equipe**: Colaboração com outros membros da equipe para integrar as diferentes partes do sistema, como a interface gráfica e a lógica de banco de dados.
-- **Gestão de tempo**: Organizar e cumprir prazos para garantir que a implementação das funcionalidades ocorra de forma eficiente e sem comprometimentos no cronograma.
-- **Resolução de problemas**: Capacidade de identificar problemas na aplicação (ex: falhas ao excluir ou filtrar dados) e resolvê-los rapidamente.
+- **Trabalho em equipe:** Colaborei ativamente com colegas de equipe na integração entre a interface gráfica e a lógica de persistência, promovendo alinhamento técnico e coesão no desenvolvimento do sistema.
+- **Gestão de tempo:** Organizei tarefas e cronogramas de forma a cumprir os prazos estabelecidos, garantindo a entrega eficiente das funcionalidades propostas.
+- **Resolução de problemas:** Atuei na identificação e correção de falhas funcionais, como erros na exclusão ou filtragem de dados, propondo soluções ágeis e eficazes para manter a estabilidade da aplicação.
 
 </details>
 
 <details>
 <summary><b> 2023-2 </b></summary>
 
-O projeto se baseia em uma aplicação web que gerencia a jornada de trabalho dos colaboradores, identifica e classifica as horas extras e sobreavisos, além de gerenciar o fluxo completo desde o registro das horas pelo colaborador até a aprovação pelos gestores.
+A empresa parceira **2RP** propôs o desenvolvimento de um sistema web de controle de horas extras, com a necessidade de registrar, visualizar em tempo real e extrair relatórios detalhados das horas trabalhadas. A solução implementada contempla o CRUD de usuários, centros de resultado e clientes, além da parametrização do sistema quanto aos valores das taxas de trabalho e horários de jornada noturna. O sistema permite que administradores aprovem ou reprovem horas extras, gestores lancem horas e acompanhem relatórios, e usuários registrem e acompanhem suas horas mensais acumuladas.
 
 [GitHub](https://github.com/api-3-sem)
 
 #### Tecnologias Utilizadas
 
 - **Java**: linguagem de programação amplamente utilizada para desenvolvimento de aplicativos devido à sua portabilidade, robustez e segurança. Foi fundamental fornecendo uma base sólida e confiável para o projeto.
-
 - **Spring**: framework para desenvolvimento de aplicativos Java que oferece um conjunto abrangente de ferramentas e bibliotecas para simplificar o desenvolvimento. Ele fornece recursos como injeção de dependência, controle transacional e segurança, ajudando na criação de uma aplicação robusta e de fácil manutenção.
-
-- **Maven**: ferramenta de automação de compilação e gerenciamento de dependências amplamente utilizada no ecossistema Java. Ele simplifica o processo de construção de projetos e gerenciamento de dependências, garantindo a consistência e reprodutibilidade do ambiente de desenvolvimento, gerenciando as dependências do projeto e automatizando tarefas de compilação e empacotamento.
-
 - **VueJS**: framework para construção de interfaces de usuário. Ele é conhecido por sua simplicidade e flexibilidade, permitindo o desenvolvimento ágil de interfaces interativas e responsivas, criando uma experiência de usuário moderna e intuitiva no frontend da aplicação.
-
 - **MySQL**: sistema de gerenciamento de banco de dados relacional que oferece desempenho, confiabilidade e escalabilidade, utilizado para armazenar e gerenciar os dados da aplicação de forma eficiente e segura.
 
 #### Contribuições Pessoais
@@ -593,35 +580,31 @@ public class DashboardController {
 
 #### Hard Skills
 
-- **Java**: Programação com foco em back-end, utilizando frameworks como Spring para desenvolvimento de APIs e controle de fluxo de dados.
-- **Spring Framework**: Desenvolvimento de aplicações robustas utilizando Spring Boot, com ênfase em Injeção de Dependência, segurança e transações.
-- **Maven**: Gerenciamento de dependências e automação de tarefas de compilação em projetos Java.
-- **MySQL**: Criação e manutenção de bancos de dados relacionais, incluindo modelagem e execução de consultas complexas em SQL.
-- **API Restful**: Implementação de endpoints para consumo de dados com estrutura RESTful.
+- **Java:** Desenvolvi a lógica de back-end utilizando Java, aplicando frameworks como Spring para criação de APIs e controle eficiente do fluxo de dados.
+- **Spring Framework:** Projetei e implementei aplicações robustas com Spring Boot, explorando recursos como Injeção de Dependência, Segurança e Gerenciamento de Transações.
+- **MySQL:** Modelei e mantive bancos de dados relacionais, realizando consultas SQL complexas para garantir a integridade e eficiência no acesso aos dados.
+- **API RESTful:** Implementei endpoints seguindo arquitetura REST, proporcionando consumo estruturado e seguro dos dados pela aplicação cliente.
 
 #### Soft Skills
 
-- **Trabalho em equipe**: Colaboração eficiente com outros desenvolvedores para integrar diferentes componentes da aplicação.
-- **Gestão de tempo**: Capacidade de cumprir prazos e coordenar várias tarefas simultaneamente.
-- **Resolução de problemas**: Análise de desafios técnicos e implementação de soluções práticas e eficientes.
+- **Trabalho em equipe:** Colaborei de forma integrada com desenvolvedores e demais membros do projeto, garantindo a harmonização dos diferentes componentes da aplicação.
+- **Gestão de tempo:** Organizei e priorizei tarefas para cumprir prazos estabelecidos, mesmo diante da execução simultânea de múltiplas atividades.
+- **Resolução de problemas:** Analisei desafios técnicos com foco crítico e implementei soluções práticas que asseguraram a continuidade e qualidade do sistema.
 
 </details>
 
 <details>
 <summary><b> 2024-1 </b></summary>
 
-O projeto se baseia em um sistema que gerencia a jornada de trabalho dos colaboradores, identifica e classifica as horas extras e sobreavisos, além de gerenciar o fluxo completo desde o registro das horas pelo colaborador até a aprovação pelos gestores.
+A empresa parceira **Oracle** identificou a necessidade de um sistema para acompanhamento do progresso de seus parceiros no programa de capacitação. O sistema desenvolvido permite o gerenciamento de usuários, empresas parceiras e trilhas de aprendizado, com acompanhamento em tempo real da taxa de conclusão dos cursos, distribuição geográfica dos parceiros e prazos de expiração das formações, além da emissão automatizada de notificações.
 
 [GitHub](https://github.com/api-4-sem)
 
 #### Tecnologias Utilizadas
 
 - **Java**: Linguagem de programação amplamente utilizada para desenvolvimento de aplicativos devido à sua portabilidade, robustez e segurança. Foi fundamental fornecendo uma base sólida e confiável para o projeto.
-
 - **Spring**: Framework para desenvolvimento de aplicativos Java que oferece um conjunto abrangente de ferramentas e bibliotecas para simplificar o desenvolvimento. Ele fornece recursos como injeção de dependência, controle transacional e segurança, ajudando na criação de uma aplicação robusta e de fácil manutenção.
-
 - **VueJS**: Framework para construção de interfaces de usuário. Ele é conhecido por sua simplicidade e flexibilidade, permitindo o desenvolvimento ágil de interfaces interativas e responsivas, criando uma experiência de usuário moderna e intuitiva no frontend da aplicação.
-
 - **Oracle Cloud**: Plataforma de nuvem que oferece uma ampla gama de serviços, como armazenamento, banco de dados e ferramentas de inteligência artificial. Proporcionou escalabilidade, alta disponibilidade e segurança, sendo crucial para hospedar e gerenciar a infraestrutura do projeto com eficiência.
 
 #### Contribuições Pessoais
@@ -743,17 +726,480 @@ public class RelatorioController {
 
 #### Hard Skills
 
-- **Java**: Desenvolvimento de aplicações backend utilizando Java, especialmente com o Spring Framework para APIs RESTful.
-- **Spring Framework**: Experiência com Spring Boot para criar aplicações web robustas, incluindo segurança e persistência de dados.
-- **Apache POI**: Geração de arquivos Excel para exportação de dados, utilizando o Apache POI.
-- **Maven**: Gerenciamento de dependências e automação de builds em projetos Java.
-- **Oracle Cloud**: Uso de serviços de nuvem para infraestrutura, escalabilidade e segurança de aplicativos.
+- **Java:** Desenvolvi o backend da aplicação utilizando Java, com foco no uso do Spring Framework para criação de APIs RESTful eficientes e seguras.
+- **Spring Framework:** Experiência com Spring Boot para criar aplicações web robustas, incluindo segurança e persistência de dados.
+- **Maven:** Gerenciei dependências e automatizei processos de build em projetos Java, garantindo consistência e facilidade na integração contínua.
+- **Oracle Cloud:** Implementei serviços de nuvem para infraestrutura, escalabilidade e segurança de aplicativos.
 
 #### Soft Skills
 
-- **Trabalho em equipe**: Colaboração eficaz com diferentes partes interessadas, incluindo desenvolvedores e gestores de projeto.
-- **Gestão de tempo**: Planejamento e priorização de tarefas para cumprir prazos de entrega de forma eficiente.
-- **Resolução de problemas**: Capacidade de diagnosticar e resolver problemas técnicos de forma independente e criativa.
-- **Proatividade**: Capacidade de antecipar necessidades e agir de forma independente para melhorar processos ou resolver problemas.
+- **Resolução de Problemas:** Analisei e diagnostiquei problemas técnicos de forma independente, aplicando soluções criativas e eficazes.
+- **Proatividade:** Antecipei necessidades e atuei de forma autônoma para melhorar processos e resolver desafios antes que impactassem o projeto.
+
+</details>
+
+<details>
+<summary><b> 2024-2 </b></summary>
+
+A empresa parceira **Pro4Tech** demandou o desenvolvimento de uma plataforma interativa para análise de dados de recrutamento e seleção, com foco na centralização e visualização estratégica de informações. A solução proposta resultou em um sistema que permite importar dados de diferentes fontes e configurar dashboards personalizados com até seis espaços gráficos, incluindo filtros e eixos ajustáveis. O sistema também permite o envio de notificações personalizadas e a exportação de relatórios em formatos Excel e PDF.
+
+[GitHub](https://github.com/api-5-sem)
+
+#### Tecnologias Utilizadas
+
+- **Java:** Linguagem de programação orientada a objetos utilizada no desenvolvimento de sistemas robustos e escaláveis.
+- **Spring:** Framework voltado para criação de aplicações web e APIs RESTful com foco em modularidade, segurança e produtividade.
+- **TypeScript:** Superset do JavaScript que oferece tipagem estática e maior controle no desenvolvimento frontend.
+- **Angular:** Framework para construção de aplicações web modernas, com arquitetura baseada em componentes.
+- **PostgreSQL:** Banco de dados relacional, utilizado para garantir integridade, desempenho e escalabilidade no armazenamento de dados.
+
+#### Contribuições Pessoais
+
+<details>
+<summary><b> Implementação do serviço para envio de email </b></summary>
+
+Nesta atividade, fui responsável por implementar o serviço de envio de e-mails utilizando o JavaMailSender. A solução permite o envio de mensagens com assunto, corpo e destinatário definidos dinamicamente, sendo utilizada para notificações automatizadas no sistema.
+
+```java
+@Data
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
+public class EnviarEmailCommand {
+    private String recipient;
+    private String msgBody;
+    private String subject;
+    private String attachment;
+}
+```
+
+```java
+@Service
+@Slf4j
+public class EmailServiceImpl implements EmailService {
+    private final JavaMailSender javaMailSender;
+    private final String SENDER = "notificacoespro4tech@gmail.com";
+    public EmailServiceImpl(JavaMailSender javaMailSender) {
+        this.javaMailSender = javaMailSender;
+    }
+
+    public void sendSimpleMail(EnviarEmailCommand command){
+        try {
+            SimpleMailMessage mailMessage = new SimpleMailMessage();
+            mailMessage.setFrom(SENDER);
+            mailMessage.setTo(command.getRecipient());
+            mailMessage.setText(command.getMsgBody());
+            mailMessage.setSubject(command.getSubject());
+            javaMailSender.send(mailMessage);
+            log.info("Email enviado com sucesso");
+        }
+        catch (Exception e) {
+            log.info("Erro ao enviar email: {}", e.getCause());
+        }
+    }
+}
+```
+
+```java
+public interface EmailService {
+    void sendSimpleMail(EnviarEmailCommand command);
+}
+
+```
+</details>
+
+<details>
+<summary><b> Implementação do use case e do endpoint para envio de notificações por email </b></summary>
+
+O objetivo da atividade foi implementar o caso de uso que verifica indicadores e aciona o serviço de e-mail. Também foi desenvolvido um endpoint REST para expor essa funcionalidade e permitir sua execução por meio de requisições HTTP.
+
+```java
+@Service
+@RequiredArgsConstructor
+public class NotificacaoUC {
+
+    private final EmailService emailService;
+    private final IndicadorRepository indicadorRepository;
+    private final IndicadorRepositoryImpl indicadorRepositoryImpl;
+
+    public void verificarIndicadores(String usuario) {
+
+        List<Indicador> indicadores = indicadorRepository.localizarPorUsuario(usuario);
+
+        for (Indicador indicador : indicadores) {
+            List<?> resultado = indicadorRepositoryImpl.executarConsultaIndicador(indicador);
+
+            if (!resultado.isEmpty()) {
+                enviarEmailNotificacao(indicador);
+            }
+        }
+    }
+
+    private void enviarEmailNotificacao(Indicador indicador) {
+        EnviarEmailCommand emailCommand = EnviarEmailCommand.builder()
+                .recipient("notificacoespro4tech@gmail.com")
+                .subject("Indicador atingido")
+                .msgBody("Nome do indicador: " + indicador.getDescricao())
+                .build();
+        emailService.sendSimpleMail(emailCommand);
+    }
+}
+```
+
+```java
+@RestController
+@RequestMapping("/notificacoes")
+@RequiredArgsConstructor
+@CrossOrigin(origins = "*")
+public class NotificacaoController {
+
+    private final NotificacaoUC notificacaoUC;
+
+    @PostMapping
+    public void obterNotificacao(@RequestBody IndicadorCommand indicadorCommand) {
+        String usuario = indicadorCommand.getUsuario();
+        notificacaoUC.verificarIndicadores(usuario);
+    }
+}
+```
+
+</details>
+
+#### Hard Skills
+
+- **Java/Spring Boot:** Desenvolvi APIs REST seguindo boas práticas, utilizando injeção de dependência e organização em camadas.
+- **Integração de APIs:** Implementei e consumi endpoints para garantir a comunicação fluida entre diferentes partes do sistema.
+- **Envio de E-mails:** Criei a funcionalidade de envio automático de e-mails personalizados com JavaMailSender.
+
+#### Soft Skills
+
+- **Comunicação:** Mantive contato constante com o time para garantir que os requisitos estivessem sendo atendidos corretamente.
+- **Autonomia:** Fui responsável por funcionalidades completas, como a de notificações por e-mail;
+- **Organização:** Mantive a estrutura do projeto clara e bem separada em pacotes, facilitando futuras manutenções.
+
+
+</details>
+
+<details>
+<summary><b> 2025-1 </b></summary>
+
+A empresa parceira **Kersys** propôs o desenvolvimento de um sistema inteligente para planejamento e monitoramento de reflorestamento. A solução consistiu em uma plataforma que permite o cadastro e atualização periódica de dados agrícolas, com análise preditiva voltada ao crescimento das plantações e projeção de custos. O sistema utiliza algoritmos de classificação e agrupamento para sugerir melhorias e foi desenvolvido em conformidade com a Lei Geral de Proteção de Dados (LGPD).
+
+[GitHub](https://github.com/api-6-pixel)
+
+#### Tecnologias Utilizadas
+
+- **Java:** Linguagem utilizada para desenvolvimento robusto de aplicações backend.
+- **Spring:** Framework completo para construção de aplicações Java, com foco em segurança, injeção de dependência e APIs RESTful.
+- **TypeScript:** Superset do JavaScript que adiciona tipagem estática, aumentando a escalabilidade do código frontend.
+- **Angular:** Framework moderno para construção de aplicações web dinâmicas e modulares.
+- **Python:** Utilizado para desenvolvimento ágil de scripts e APIs com foco em produtividade.
+- **FastAPI:** Framework Python para criação rápida e eficiente de APIs REST com validação automática.
+- **PostgreSQL:** Banco de dados relacional utilizado para armazenar dados estruturados com segurança e confiabilidade.
+- **MongoDB:** Banco de dados NoSQL utilizado para armazenar dados flexíveis em formato JSON.
+
+#### Contribuições Pessoais
+
+<details>
+<summary><b> Implementação dos serviços de autenticação e geração de tokens JWT </b></summary>
+
+Nesta atividade, fui responsável por implementar o serviço de autenticação de usuários com Spring Security, utilizando a interface UserDetailsService para recuperar os dados do usuário no login. Além disso, desenvolvi o serviço de geração e validação de tokens JWT, garantindo autenticação segura e compatível a aplicação.
+
+```java
+@Service
+@RequiredArgsConstructor
+public class AutorizacaoService implements UserDetailsService {
+
+    private final UsuarioRepository usuarioRepository;
+
+    public UserDetails loadUserByUsername(String nomeUsuario) throws UsernameNotFoundException {
+        return usuarioRepository.buscarPorNomeUsuario(nomeUsuario);
+    }
+}
+```
+
+```java
+@Service
+public class TokenService {
+
+    @Value("${api.security.token.secret}")
+    private String segredo;
+
+    public String gerarToken(Usuario usuario){
+        try{
+            Algorithm algoritmo = Algorithm.HMAC256(segredo);
+            return JWT.create()
+                    .withIssuer("pixel")
+                    .withSubject(usuario.getUsername())
+                    .withExpiresAt(definirDataExpiracao())
+                    .sign(algoritmo);
+        } catch (JWTCreationException exception) {
+            throw new RuntimeException("Erro enquanto gera o token", exception);
+        }
+    }
+
+    public String validarToken(String token){
+        try {
+            Algorithm algoritmo = Algorithm.HMAC256(segredo);
+            return JWT.require(algoritmo)
+                    .withIssuer("pixel")
+                    .build()
+                    .verify(token)
+                    .getSubject();
+        } catch (JWTVerificationException exception){
+            throw new RuntimeException("Erro enquanto valida o token", exception);
+        }
+    }
+
+    private Instant definirDataExpiracao(){
+        return LocalDateTime.now().plusHours(2).toInstant(ZoneOffset.of("-03:00"));
+    }
+}
+```
+</details>
+
+<details>
+<summary><b> Implementação do filtro de segurança para autenticação via JWT </b></summary>
+
+Nesta atividade, implementei um filtro personalizado que intercepta as requisições HTTP, extrai o token JWT do cabeçalho, valida o token e define a autenticação no contexto de segurança. A solução foi integrada à cadeia de filtros do Spring Security para proteger as rotas da aplicação.
+
+```java
+@Component
+@RequiredArgsConstructor
+public class FiltroSeguranca extends OncePerRequestFilter {
+
+    private final TokenService tokenService;
+    private final UsuarioRepository usuarioRepository;
+
+    @Override
+    protected void doFilterInternal(@NonNull HttpServletRequest request,
+                                    @NonNull HttpServletResponse response,
+                                    @NonNull FilterChain filterChain) throws ServletException, IOException {
+        var token = this.recuperarToken(request);
+        if(token != null){
+            var username = tokenService.validarToken(token);
+            UserDetails user = usuarioRepository.buscarPorNomeUsuario(username);
+
+            var autenticacao = new UsernamePasswordAuthenticationToken(user, null, null);
+            SecurityContextHolder.getContext().setAuthentication(autenticacao);
+        }
+        filterChain.doFilter(request, response);
+    }
+
+    private String recuperarToken(HttpServletRequest request){
+        var authHeader = request.getHeader("Authorization");
+        if(authHeader == null) return null;
+        return authHeader.replace("Bearer ", "");
+    }
+}
+```
+</details>
+
+<details>
+<summary><b> Configuração da segurança da aplicação com Spring Security </b></summary>
+
+O objetivo da atividade foi configurar a segurança da aplicação utilizando o Spring Security. Foram definidos os endpoints públicos e protegidos, o uso de sessão stateless, o filtro de autenticação via JWT, e o codificador de senhas com BCrypt, garantindo controle de acesso e segurança na API.
+
+```java
+@Configuration
+@EnableWebSecurity
+@RequiredArgsConstructor
+public class ConfiguracaoSeguranca {
+
+    private final FiltroSeguranca filtroSeguranca;
+
+    @Bean
+    public SecurityFilterChain securityFilterChain(HttpSecurity httpSecurity) throws Exception {
+        return httpSecurity
+                .csrf(AbstractHttpConfigurer::disable)
+                .sessionManagement(session -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))
+                .authorizeHttpRequests(authorize -> authorize
+                        .requestMatchers(HttpMethod.POST, "/api/auth/login").permitAll()
+			.requestMatchers(HttpMethod.GET, "/api/usuarios/**").hasRole("ADMIN")
+                        .anyRequest().authenticated())
+                .addFilterBefore(filtroSeguranca, UsernamePasswordAuthenticationFilter.class)
+                .build();
+    }
+
+    @Bean
+    public AuthenticationManager authenticationManager(AuthenticationConfiguration authenticationConfiguration) throws Exception {
+        return authenticationConfiguration.getAuthenticationManager();
+    }
+
+    @Bean
+    public PasswordEncoder passwordEncoder(){
+        return new BCryptPasswordEncoder();
+    }
+}
+```
+</details>
+
+<details>
+<summary><b> Implementação da exportação de dados referentes ao lote de um determinado usuário em formato Excel </b></summary>
+
+Nesta atividade, fui responsável por implementar o serviço de exportação dos dados de lote de um determinado usuário no formato .xlsx. Utilizei a biblioteca Apache POI para estruturar e gerar a planilha com informações como nome da fazenda, espécie, status, dados climáticos e de solo, possibilitando o download dos dados em formato tabular.
+
+```java
+@Service
+public class RelatorioService {
+
+    public static InputStreamResource exportarDadosLoteUsuario(List<DadosRelatorioDTO> dadosRelatorio) throws IOException {
+
+        String[] HEADERS={
+                "Nome da Fazenda", "Espécie", "Área Plantada", "Data do Plantio",
+                "Custo Esperado", "Status", "Temperatura Ambiente", "Temperatura Solo",
+                "Umidade Ambiente", "Umidade Solo", "pH do Solo", "Índice UV", "Data da Atualização"
+        };
+
+        try (Workbook workbook = new XSSFWorkbook();
+             ByteArrayOutputStream out = new ByteArrayOutputStream();) {
+
+            Sheet sheet = workbook.createSheet("data");
+            Row headerRow = sheet.createRow(0);
+
+            for (int i = 0; i < HEADERS.length; i++) {
+                headerRow.createCell(i).setCellValue(HEADERS[i]);
+            }
+
+            int rowIndex = 1;
+            for (DadosRelatorioDTO dto : dadosRelatorio) {
+                Row row = sheet.createRow(rowIndex++);
+
+                row.createCell(0).setCellValue(dto.fazendaNome());
+                row.createCell(1).setCellValue(dto.especieNome());
+                row.createCell(2).setCellValue(dto.areaPlantada());
+                row.createCell(3).setCellValue(dto.dataPlantio().toString());
+                row.createCell(4).setCellValue(dto.custoEsperado());
+                row.createCell(5).setCellValue(dto.status().toString());
+                row.createCell(6).setCellValue(dto.temperaturaAmbiente());
+                row.createCell(7).setCellValue(dto.temperaturaSolo());
+                row.createCell(8).setCellValue(dto.umidadeAmbiente());
+                row.createCell(9).setCellValue(dto.umidadeSolo());
+                row.createCell(10).setCellValue(dto.phSolo());
+                row.createCell(11).setCellValue(dto.indiceUV());
+                row.createCell(12).setCellValue(dto.dataAtualizacao().toString());
+            }
+
+            for (int i = 0; i < HEADERS.length; i++) {
+                sheet.autoSizeColumn(i);
+            }
+
+            workbook.write(out);
+            return new InputStreamResource(new ByteArrayInputStream(out.toByteArray()));
+
+        } catch (IOException e) {
+            throw new RuntimeException("Erro ao exportar os dados do lote em .xlsx", e);
+        }
+    }
+
+    public String gerarNomeArquivo(DadosRelatorioDTO dadosRelatorio) {
+        return dadosRelatorio.fazendaNome() + "_" + LocalDate.now() + ".xlsx";
+    }
+}
+```
+</details>
+
+<details>
+<summary><b> Implementação do caso de uso e endpoint de geração de relatório por plantação </b></summary>
+
+Fui responsável por desenvolver o caso de uso que gera o relatório de uma plantação específica de um usuário. A lógica verifica a existência do usuário, da plantação e da chave associada, e então busca os dados de atualização no banco. Os dados são transformados em um arquivo .xlsx por meio do serviço de relatório. Também implementei o controller REST que expõe o endpoint para download direto do relatório.
+
+```java
+@Service
+@RequiredArgsConstructor
+public class GerarRelatorioUC {
+
+    private final UsuarioRepository usuarioRepository;
+    private final AtualizacaoPlantioRepository atualizacaoPlantioRepository;
+    private final ChaveUsuarioRepository chaveUsuarioRepository;
+    private final RelatorioService relatorioService;
+
+    @Transactional
+    public RelatorioDTO executar(Long idUsuario, Long idPlantacao) throws IOException {
+        Usuario usuario = usuarioRepository.carregar(idUsuario)
+                .orElseThrow(() -> new RuntimeException("Nenhum usuário encontrado para o ID informado."));
+
+        ChaveUsuario chaveUsuario = chaveUsuarioRepository.carregar(idUsuario);
+        if (chaveUsuario == null) {
+            throw new RuntimeException("Chave do usuário não encontrada para o ID informado.");
+        }
+
+        var plantacaoUsuario = usuario.getPlantacao().stream()
+                .filter(p -> p.getId().equals(idPlantacao))
+                .findFirst();
+
+        if (plantacaoUsuario.isEmpty()) {
+            throw new RuntimeException("Plantação não encontrada para o usuário informado.");
+        }
+
+        var plantacao = plantacaoUsuario.get();
+
+        List<DadosRelatorioDTO> dadosRelatorio = atualizacaoPlantioRepository.buscarPorPlantacao(plantacao).stream()
+                .map(atualizacao -> new DadosRelatorioDTO(
+                        plantacao.getFazendaNome(),
+                        plantacao.getEspecieNome(),
+                        plantacao.getAreaPlantada(),
+                        plantacao.getCustoEsperado(),
+                        plantacao.getStatus(),
+                        plantacao.getDataPlantio(),
+                        atualizacao.getTemperaturaAmbiente(),
+                        atualizacao.getTemperaturaSolo(),
+                        atualizacao.getUmidadeAmbiente(),
+                        atualizacao.getUmidadeSolo(),
+                        atualizacao.getPhSolo(),
+                        atualizacao.getIndiceUV(),
+                        atualizacao.getDataRegistro()
+                )).toList();
+
+        if (dadosRelatorio.isEmpty()) {
+            throw new RuntimeException("Não há dados de atualização para a plantação informada.");
+        }
+
+        InputStreamResource relatorio = RelatorioService.exportarDadosLoteUsuario(dadosRelatorio);
+        String nomeRelatorio = relatorioService.gerarNomeArquivo(dadosRelatorio.getFirst());
+
+        return new RelatorioDTO(relatorio, nomeRelatorio);
+    }
+}
+```
+
+```java
+@RestController
+@RequestMapping("/api/relatorio")
+@RequiredArgsConstructor
+@CrossOrigin(origins = "*")
+public class RelatorioController {
+
+    private final GerarRelatorioUC gerarRelatorioUC;
+
+    @GetMapping("/{idUsuario}/plantacao/{idPlantacao}")
+    public ResponseEntity<InputStreamResource> downloadRelatorioFazendaEspecifica(
+            @PathVariable Long idUsuario,
+            @PathVariable Long idPlantacao) {
+        try {
+            RelatorioDTO relatorio = gerarRelatorioUC.executar(idUsuario, idPlantacao);
+            return ResponseEntity.ok()
+                    .header(HttpHeaders.CONTENT_DISPOSITION, "attachment; filename=" + relatorio.nomeArquivo())
+                    .contentType(MediaType.parseMediaType("application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"))
+                    .body(relatorio.arquivo());
+        } catch (IOException e) {
+            return ResponseEntity.internalServerError().build();
+        }
+    }
+}
+```
+</details>
+
+#### Hard Skills
+
+- **Java/Spring Boot:** Modelei e desenvolvi toda a lógica do backend utilizando Java com Spring Boot, priorizando segurança, desempenho e uma arquitetura escalável.
+- **Spring Security:** Implementei autenticação com JWT e controle de acesso a rotas, garantindo proteção ao sistema.
+- **Exportação de Dados (Excel):** Desenvolvi uma funcionalidade para exportar dados de plantios em arquivos .xlsx, facilitando o acompanhamento histórico.
+
+#### Soft Skills
+
+- **Responsabilidade Técnica:** Fui responsável direto por funcionalidades críticas implementadas em Java, como autenticação e exportação de dados.
+- **Adaptação:** Naveguei com facilidade entre diferentes tecnologias usando Java como base central do projeto.
+- **Pensamento Analítico:** Analisei problemas complexos no código Java e propus soluções eficazes.
 
 </details>
